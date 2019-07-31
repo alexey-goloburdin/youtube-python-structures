@@ -1,0 +1,12 @@
+env/
+**/.DS_Store
+.idea/
+**/__pycache__
+*.log
+*.pickle
+*.db
+*.rdb
+*.pid
+*.toc
+*.out
+.ipynb_checkpoints
