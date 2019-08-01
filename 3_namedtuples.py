@@ -1,3 +1,8 @@
+"""
+Использование namedtuple вместо Dict или dataclass позволяет ещё
+сильнее сократить объём используемой RAM, но при этом не позволяет
+указывать типы данных, как dataclass.
+"""
 from collections import namedtuple
 from dataclasses import dataclass
 import random

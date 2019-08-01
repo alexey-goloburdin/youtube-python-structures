@@ -1,3 +1,6 @@
+"""
+Самый очевидный и наименее эффективный вариант — использование List и Dict.
+"""
 import random
 
 from pympler import asizeof

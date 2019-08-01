@@ -1,3 +1,8 @@
+"""
+Использование typing.NamedTuple — памяти потребляем как обычный namedtuple,
+но при этом можно указывать типы данных в атрибутах класса.
+Лучший по эффективности способ замены Dict.
+"""
 from dataclasses import dataclass
 import random
 from typing import NamedTuple
