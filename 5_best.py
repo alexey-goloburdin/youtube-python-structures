@@ -1,7 +1,7 @@
 """
-И напоследо комбиниуем — Dict заменён на AltDict(NamedTuple), а также tariffs
-заменён с List на Tuple, в данном примере это возможно. Лучший по эффективности
-вариант.
+И напоследок комбиниуем — Dict заменён на AltDict(NamedTuple), а также tariffs
+заменён с List на Tuple, в данном примере это возможно.
+Лучший по эффективности вариант.
 """
 from dataclasses import dataclass
 import random
