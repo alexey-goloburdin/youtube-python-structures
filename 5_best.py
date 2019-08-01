@@ -5,7 +5,7 @@
 """
 from dataclasses import dataclass
 import random
-from typing import NamedTuple, List
+from typing import NamedTuple, Tuple
 
 from pympler import asizeof
 
